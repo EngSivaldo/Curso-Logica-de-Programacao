@@ -1,7 +1,6 @@
 # Plano do Curso
 
 ## Módulo 00 — Antes de Programar
-
 ### Aula 01 - Apresentação do curso
 ### Aula 02 - O que é programação
 ### Aula 03 - Como um computador pensa
