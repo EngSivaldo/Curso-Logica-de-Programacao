@@ -1,0 +1,5 @@
+- Adicionar exercícios de entrevistas.
+- Criar versão em vídeo.
+- Adicionar fluxogramas coloridos.
+- Criar desafios extras.
+- Criar versão em PDF.
